@@ -1,0 +1,14 @@
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/bin/Debug/net8.0/WeatherMonitor
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/bin/Debug/net8.0/WeatherMonitor.deps.json
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/bin/Debug/net8.0/WeatherMonitor.runtimeconfig.json
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/bin/Debug/net8.0/WeatherMonitor.dll
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/bin/Debug/net8.0/WeatherMonitor.pdb
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/WeatherMonitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/WeatherMonitor.AssemblyInfoInputs.cache
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/WeatherMonitor.AssemblyInfo.cs
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/WeatherMonitor.csproj.CoreCompileInputs.cache
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/WeatherMonitor.dll
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/refint/WeatherMonitor.dll
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/WeatherMonitor.pdb
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/WeatherMonitor.genruntimeconfig.cache
+/home/datablock/RiderProjects/WeatherMonitor/WeatherMonitor/obj/Debug/net8.0/ref/WeatherMonitor.dll
